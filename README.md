@@ -151,7 +151,7 @@ The suite covers 19 tests across these behaviours:
 
 ## 📸 Demo
 
-*(Add a screenshot of the running Streamlit app here)*
+![PawPal](PawPal.png)
 
 ---
 
